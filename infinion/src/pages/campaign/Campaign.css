@@ -1,0 +1,56 @@
+.campaign{
+    margin-left: 15px;
+    padding: 20px 85px;
+    background: #FFFFFA;
+
+}
+
+.campaign-header h1 {
+    font-family: 'work sans';
+    color: #247B7B;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.campaign-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 10px;
+    margin-bottom: 37px;
+    
+}
+
+.campaign_nav {
+    display: flex;
+    gap : 16px
+    
+}
+
+.campaign-input {
+    gap: 28px;
+    display: flex;
+    
+}
+
+.campaign-input input {
+    height: 44px;
+    width: 244px;
+    border-radius: 4px;
+    border: 0.2px solid #999999;
+}
+
+
+
+.campaign_nav_btn {
+    background: #F5F5F5;
+    border-radius: 4px;
+    border: 1px solid #2A9D8FD1;
+    height: 40px;
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #247B7B;
+    
+}

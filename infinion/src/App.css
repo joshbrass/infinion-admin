@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.content {
+  /* position: relative; */
+  margin-left: 270px !important;
+  padding: 20px;
+  width: 100%;
+  flex: 1 !important;
+  margin-top: -18px !important;
+  /* margin-right: -20px !important; */
+}
+
+

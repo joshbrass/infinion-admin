@@ -1,0 +1,122 @@
+.newcampaign {
+    margin-left: 15px;
+    padding: 20px 85px;
+    background: #FFFFFA;
+}
+
+.header h1 {
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 20px;
+    color: #247B7B;
+    line-height: 28px;
+}
+
+.input-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.timeframe-box{
+    display: flex;
+    flex-direction: column;
+    padding-top: 16px;
+}
+.select-box{
+    width: 155px;
+    height: 40px;
+    padding: 10px;
+}
+
+
+.form-container{
+   
+    margin-top: 1.6px;
+    max-width: 100%;
+    width: 684px;
+    height: 578px;
+    padding: 10px 0;
+    background: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.form-container .form {
+    height: 578px;
+}
+
+.input-box {
+    width: 100%;
+    margin-top: 16px;
+    
+   
+}
+
+.input-box label {
+    color: #666666;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    display: block;
+     margin-bottom: 5px;
+}
+
+.input-box input {
+    position: relative;
+    height: 40px;
+    border-radius: 4px;
+    border: 0.5px solid #999999;
+    max-width: 684px;
+    padding: 10px;
+    outline: none;
+    width: 100%;
+    color: #999999;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+form .column{
+    display: flex;
+    column-gap: 30px;
+}
+
+
+.campaign-btn button{
+    width: 196px;
+    height: 40px;
+    margin-bottom: 80px;
+    
+}
+
+.campaign-btn1 {
+    padding: 10px 0;
+    outline: none;
+    background: transparent ;
+    border-radius: 4px;
+    border:  solid #247B7B;
+    color: #247B7B;
+    margin-right: 24px;
+}
+
+.campaign-btn1:hover {
+    background: #247B7B;
+    color: #FFFFFF;
+}
+
+.campaign-btn2 {
+    padding: 10px 0;
+    outline: none;
+    background: #247B7B ;
+    border-radius: 4px;
+    border:  solid #247B7B;
+    color: #FFFFFF;
+    margin-right: 24px;
+}
+
+.campaign-btn2:hover {
+    background: #FFFFFF;
+    color: #247B7B;
+}

@@ -1,0 +1,26 @@
+.datagrid {
+    /* background: white; */
+    padding: 20px;
+}
+
+.MuiDataGrid-columnHeaderTitleContainer {
+    background: #F0F4F4;
+}
+
+.view {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 24px;
+    padding-top: 15px;
+}
+
+.pagination {
+    margin-top: 30px;
+
+}
+
+.view{
+    display: flex;
+    align-items: center;
+}
